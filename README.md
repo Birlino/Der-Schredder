@@ -1,6 +1,6 @@
 # Der-Schredder
 A plubic bot when you can personalize every function
-You can invite the bot with our # linkhttps://discord.com/api/oauth2/authorize?client_id=1078989930681864222&permissions=8&scope=bot%20applications.commands
+You can invite the bot with our # link https://discord.com/api/oauth2/authorize?client_id=1078989930681864222&permissions=8&scope=bot%20applications.commands
 
 Download the folder
 Open the folder in desktop
